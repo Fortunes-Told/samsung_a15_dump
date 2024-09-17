@@ -1,0 +1,14 @@
+# a15nsxx-user 14 UP1A.231005.007 A155FXXS3BXG3 release-keys
+- manufacturer: samsung
+- platform: mt6789
+- codename: a15
+- flavor: a15nsxx-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: A155FXXS3BXG3
+- tags: release-keys
+- fingerprint: samsung/a15nsxx/a15:12/SP1A.210812.016/A155FXXS3BXG3:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a15nsxx-user-14-UP1A.231005.007-A155FXXS3BXG3-release-keys
+- repo: samsung_a15_dump
